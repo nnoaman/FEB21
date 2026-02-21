@@ -138,7 +138,7 @@ deployer_enable_public_ip = false
 deployer_count=1
 
 # deployer_size is optional and defines the virtual machine SKU
-#deployer_size="Standard_D4ds_v4"
+deployer_size="Standard_D4s_v3"
 
 # deployer_disk_type is optional and defines the virtual machine disk type
 #deployer_disk_type"="Premium_LRS"
